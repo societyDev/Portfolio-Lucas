@@ -1,5 +1,3 @@
-# Portfolio-Lucas
-Portfólio pessoal de Lucas Moreira com foco em software e cultura pop
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8"> <!-- Define o conjunto de caracteres da página -->
